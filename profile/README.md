@@ -3,6 +3,7 @@ The current group members are:
 - Mohammed Gathoo
 - Tristan Bookhan
 - Nico Govindsamy
+- Sheslin Naidoo
 
 <!--
 
